@@ -26,7 +26,7 @@ chromotography paper
 
 * ```lick-o-meter``` - an LED triggered by a transistor set to sniff for lossly closed cicuits (simple!).  see [lickometer](https://github.com/5shekel/lickometer)  
 
-* ```microfluidics``` - here is an [instructible](https://www.instructables.com/id/Wax-Paper-Microfluidics/) preperd for our process by [nwlauer](https://www.instagram.com/nwlauer/). and see the PDF folder for more papers. 
+* ```microfluidics``` - here is an [instructables](https://www.instructables.com/id/Wax-Paper-Microfluidics/) preperd for our process by [nwlauer](https://www.instagram.com/nwlauer/). and see the PDF folder for more papers. 
 
 
 ###### this README was edited online using the lovly [markddown-editor](https://jbt.github.io/markdown-editor), and a github [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
