@@ -21,6 +21,8 @@ chromotography paper
 
 ![](http://i.imgur.com/wBrGC2gl.jpg "chromo and stock paper")
 
+copper tape applied
+![](http://i.imgur.com/xHGz1eQ.jpg "after applying the copper tape")
 
 ## words used
 
