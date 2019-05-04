@@ -21,8 +21,15 @@ chromotography paper
 
 ![](http://i.imgur.com/wBrGC2gl.jpg "chromo and stock paper")
 
-copper tape applied
+copper tape applied  
 ![](http://i.imgur.com/xHGz1eQ.jpg "after applying the copper tape")
+
+[video](https://wiki.idiot.io/_media/2017-03-01_20-09-56.mp4)
+
+###Galerries
+[Fluidics](https://goo.gl/photos/pFm7huRJut6T9TQM7)  
+[Wax printer](https://goo.gl/photos/iDyLJeByRjw62Q5K7)  
+[Waxink](https://goo.gl/photos/pFm7huRJut6T9TQM7)  
 
 ## words used
 
