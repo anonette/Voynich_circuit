@@ -1,6 +1,6 @@
 # Voynich Circuit
 
-guide on how to make a multi layer hybrid paper/fluid/copper circuit.  
+guide on how to make a multi layer hybrid paper/fluid/copper circuit using [wax ink](https://en.wikipedia.org/wiki/Solid_ink#Advantages) tech.  
 
 
 ### Media
